@@ -1,4 +1,4 @@
-**Student Performance Analysis with Python Data Science Libraries**
+<h1>Student Performance Analysis with Python Data Science Libraries</h1>
 
 This Python project utilizes powerful data analysis libraries including NumPy, Pandas, Matplotlib, and Seaborn to conduct a comprehensive examination of students' exam score performance. The project involves the loading and preprocessing of student data, addressing any data quality issues, and extracting meaningful insights through statistical analysis and data visualization.
 
